@@ -3,6 +3,7 @@
 
 ## 🎵 Overview
 **RaiderLyrics** is a comprehensive music discovery platform that allows users to explore music, read lyrics, create playlists, and discover new artists. The platform integrates with YouTube Data and SimpMusic Lyrics API to provide a rich multimedia experience for music lovers.
+![Uploading Screenshot 2025-12-16 115300.png…]()
 
 ## ✨ Features
 
