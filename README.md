@@ -9,7 +9,7 @@
 ## ✨ Features
 
 ### 🎶 Core Features
-- **Search & Discover**: Search for songs, artists, or lyrics across a vast music library
+- **Search & Discover**: Search for songs, artists, or lyrics across a vast music library(api isnt stable)
 - **Artist Profiles**: Detailed artist pages with discographies, albums, and songs
 - **Music Playback**: Watch music videos directly within the platform
 - **Lyrics Integration**: View synchronized lyrics while listening to music
