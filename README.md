@@ -27,7 +27,7 @@
 - **Artist Discovery**: Explore similar artists and recommendations
 - **New Releases**: Stay updated with the latest music releases
 
-### 👤 Artist Profiles (Example: NFrealmusic)
+### 👤 Artist Profiles (Example: NFrealmusic, lana)
 - Complete artist discographies
 - Song listings with metadata (duration, release date, view counts)
 - Album collections
