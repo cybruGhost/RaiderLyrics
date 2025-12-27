@@ -7,6 +7,7 @@
 <img width="1907" height="881" alt="Screenshot 2025-12-16 115300" src="https://github.com/user-attachments/assets/65d9fbb8-6d96-41d3-9d61-daab8dead474" />
 
 ## ✨ Features
+![API Status](https://img.shields.io/endpoint?url=https://yt.omada.cafe/status)
 
 ### 🎶 Core Features
 - **Search & Discover**: Search for songs, artists, or lyrics across a vast music library(api isnt stable)
