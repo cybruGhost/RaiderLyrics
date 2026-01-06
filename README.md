@@ -32,6 +32,7 @@
 - **Album Radio**: Generate radio stations from specific albums
 - **Artist Discovery**: Explore similar artists and recommendations
 - **New Releases**: Stay updated with the latest music releases
+- beta
 
 ### 👤 Artist Profiles (Example: NFrealmusic, lana)
 - Complete artist discographies
