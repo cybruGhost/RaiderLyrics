@@ -1,7 +1,7 @@
 # RaiderLyrics
 # RaiderLyrics - Music Discovery Platform(best on pc)beta testing
 
-## 🎵 Overview
+## 🎵 Overview()
 **RaiderLyrics** is a VERY comprehensive music discovery platform that allows users to explore music, read lyrics, create playlists, and discover new artists. The platform integrates with YouTube Data and SimpMusic Lyrics API to provide a rich multimedia experience for music lovers.
 
 <img width="1907" height="881" alt="Screenshot 2025-12-16 115300" src="https://github.com/user-attachments/assets/65d9fbb8-6d96-41d3-9d61-daab8dead474" />
