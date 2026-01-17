@@ -31,7 +31,7 @@
 - **Start Radio**: Create personalized radio stations based on songs or artists
 - **Album Radio**: Generate radio stations from specific albums
 - **Artist Discovery**: Explore similar artists and recommendations
-- **New Releases**: Stay updated with the latest music releases
+- **New Releases**: Stay updated with the latest music releases🥰
 - beta
 
 ### 👤 Artist Profiles (Example: NFrealmusic, lana)
