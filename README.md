@@ -13,7 +13,7 @@
 
 
 
-### 🎶 Core Features
+### 🎶 Core/MAIN Features
 - **Search & Discover**: Search for songs, artists, or lyrics across a vast music library(api isnt stable)
 --audio-video enabled 
 - **Artist Profiles**: Detailed artist pages with discographies, albums, and songs
