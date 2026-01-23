@@ -92,7 +92,7 @@
 - Fans tracking their favorite artists' discographies
 - Music discovery and recommendation seekers
 
-## 📋 Example Artist Page: NFrealmusic
+## 📋 Example Artist Page: NFrealmusic..
 The platform includes comprehensive artist pages like NFrealmusic featuring:
 - 60+ songs with streaming capabilities
 - 12 albums
