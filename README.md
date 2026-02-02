@@ -1,4 +1,4 @@
-# RaiderLyrics
+# RaiderLyrics (beta)
 # RaiderLyrics - Music Discovery Platform(best on pc)check https://cubicmusic.lovable.app
 
 ## 🎵 Overview()
